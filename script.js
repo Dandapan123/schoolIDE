@@ -217,7 +217,7 @@ window.files = [
 <html>
 	<head>
 		<script src="__consoleHandler.js"></script>
-		<title>John is cool</title>
+		<title>Focus is cool</title>
 	</head>
 	<body>
 		<script src="script.js"></script>
